@@ -39,7 +39,7 @@ Learning project from [AmaliTech] curriculum.
 <!-- AUTHORS -->
 ## Authors
  <br />
-[Happy](https://github.com/angeGikundiro) 
+[Happy](https://github.com/gikundiroHappy) 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
